@@ -127,7 +127,7 @@ do
 	Main.GUI = Instance.new('ScreenGui', Main.Services.CoreGui)
 	Main.GUI.Name = 'LB UI Library' .. getService('HttpService'):GenerateGUID()
 	sendNotification('redxporn loaded!', 'have fun!\n- sex master')
-	sendNotification('HI', 'you are super sexy ;)')
+	sendNotification('HI', 'you are super sexy, verifying you.. will take a bit')
 
 	function LB_MODULE:Create(window, instance, props)
 		local a = Instance.new(instance)
